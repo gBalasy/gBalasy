@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gBalasy
-- 👀 I’m interested in ... Gaming, Game developement, Python, JS
+- 👀 I’m interested in ... Gaming, Game developement,web developement, Python, JS
 - 🌱 I’m currently learning web development && full-stack Engineer(ing) via @CodeCademy
 - 💞️ I’m looking to collaborate on ... --> null
 - 📫 How to reach me ... --> don`t reach me.
